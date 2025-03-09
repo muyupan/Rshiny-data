@@ -1,0 +1,6 @@
+shiny
+colourpicker
+leaflet
+readxl
+dplyr
+htmlwidgets
