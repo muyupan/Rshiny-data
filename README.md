@@ -31,4 +31,5 @@ The visualization supports four different map types:
 
 ### Jittering Factor
 A jittering factor is added to differentiate two data points when clustering occurs. Note that a large jittering factor could result in data location inaccuracy.
+
 ![Screen Shot 2025-03-09 at 10 19 22 AM](https://github.com/user-attachments/assets/7af047c2-d434-4853-8a73-3775bd84de46)
