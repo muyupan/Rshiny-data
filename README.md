@@ -1,7 +1,5 @@
-# Rshiny-data
+# Rshiny-data: Disease Spread Visualization
 Data visualizing using R shiny app
-
-# Disease Spread Visualization
 
 ## Overview
 This code supports visualizing disease spreading data on a worldwide map, following a specific input file structure.
@@ -9,6 +7,7 @@ This code supports visualizing disease spreading data on a worldwide map, follow
 ## Usage Example
 ### Input File
 The input file format can be seen from the provided example.
+
 ![Screen Shot 2025-03-09 at 10 19 05 AM](https://github.com/user-attachments/assets/69245057-98aa-4e69-8ad2-a924f2e0bd80)
 
 ### Output Map
